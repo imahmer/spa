@@ -42,4 +42,5 @@ https://localhost:5005
 ```
 
 ## References
-[Authentication flows and application scenarios] (https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios)
+
+[Authentication flows and application scenarios](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios)
